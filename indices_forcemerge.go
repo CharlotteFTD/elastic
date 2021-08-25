@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // IndicesForcemergeService allows to force merging of one or more indices.

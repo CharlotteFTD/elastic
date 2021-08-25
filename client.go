@@ -21,7 +21,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/CharlotteFTD/elastic.v5/config"
+	"github.com/CharlotteFTD/elastic/v5/config"
 )
 
 const (

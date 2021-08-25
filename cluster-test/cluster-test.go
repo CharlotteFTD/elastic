@@ -18,7 +18,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	elastic "github.com/CharlotteFTD/elastic.v5"
+	elastic "github.com/CharlotteFTD/elastic/v5"
 )
 
 type Tweet struct {

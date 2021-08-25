@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // DeleteTemplateService deletes a search template. More information can

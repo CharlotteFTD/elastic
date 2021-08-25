@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // SearchShardsService returns the indices and shards that a search request would be executed against.

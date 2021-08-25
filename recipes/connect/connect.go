@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/CharlotteFTD/elastic.v5"
+	"github.com/CharlotteFTD/elastic/v5"
 )
 
 func main() {

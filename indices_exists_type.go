@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // IndicesExistsTypeService checks if one or more types exist in one or more indices.

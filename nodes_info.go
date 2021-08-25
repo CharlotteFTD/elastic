@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // NodesInfoService allows to retrieve one or more or all of the

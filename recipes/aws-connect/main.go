@@ -17,8 +17,8 @@ import (
 
 	"github.com/olivere/env"
 	"github.com/smartystreets/go-aws-auth"
-	elastic "github.com/CharlotteFTD/elastic.v5"
-	"github.com/CharlotteFTD/elastic.v5/aws"
+	elastic "github.com/CharlotteFTD/elastic/v5"
+	"github.com/CharlotteFTD/elastic/v5/aws"
 )
 
 func main() {

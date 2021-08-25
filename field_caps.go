@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // FieldCapsService allows retrieving the capabilities of fields among multiple indices.

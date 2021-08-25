@@ -1,4 +1,4 @@
-module github.com/CharlotteFTD/elastic.v5
+module github.com/CharlotteFTD/elastic/v5
 
 require (
 	github.com/fortytw2/leaktest v1.3.0

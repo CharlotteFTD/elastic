@@ -35,7 +35,7 @@ import (
 	"time"
 
 	"golang.org/x/sync/errgroup"
-	"github.com/CharlotteFTD/elastic.v5"
+	"github.com/CharlotteFTD/elastic/v5"
 )
 
 func main() {

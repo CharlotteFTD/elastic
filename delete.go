@@ -11,7 +11,7 @@ import (
 
 	"net/http"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // DeleteService allows to delete a typed JSON document from a specified

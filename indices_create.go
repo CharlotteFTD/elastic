@@ -9,7 +9,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/CharlotteFTD/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic/v5/uritemplates"
 )
 
 // IndicesCreateService creates a new index.
