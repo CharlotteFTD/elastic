@@ -25,8 +25,8 @@ import (
 
 	"github.com/google/uuid"
 
-	elastic "gopkg.in/olivere/elastic.v5"
-	"gopkg.in/olivere/elastic.v5/config"
+	elastic "github.com/CharlotteFTD/elastic.v5"
+	"github.com/CharlotteFTD/elastic.v5/config"
 )
 
 func main() {

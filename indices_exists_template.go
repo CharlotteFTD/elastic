@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"gopkg.in/olivere/elastic.v5/uritemplates"
+	"github.com/CharlotteFTD/elastic.v5/uritemplates"
 )
 
 // IndicesExistsTemplateService checks if a given template exists.
